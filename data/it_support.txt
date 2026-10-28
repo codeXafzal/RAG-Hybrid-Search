@@ -1,0 +1,16 @@
+IT SUPPORT POLICY
+
+1. Password Reset
+Employees who forget their account password must submit a password reset request through the IT Helpdesk portal. The IT team normally processes password reset requests within 30 minutes during business hours. Employees must never share their passwords with colleagues or IT staff.
+
+2. VPN Access
+Employees working remotely must connect to the company VPN before accessing internal company systems. VPN access is available to authorized employees only. Employees experiencing VPN connection failures should restart the VPN client and check their internet connection. If the issue continues, they must raise a ticket with the IT Helpdesk.
+
+3. Laptop Issues
+Hardware problems, laptop overheating, and unexpected shutdowns must be reported to the IT Helpdesk. Employees must not attempt to open or repair company laptops themselves. The IT team aims to acknowledge hardware support tickets within four business hours.
+
+4. IT Helpdesk Hours
+The IT Helpdesk operates Monday to Friday, from 9:00 AM to 6:00 PM, excluding company holidays. Requests submitted outside business hours are processed on the next working day.
+
+5. Software Installation
+Employees must obtain approval from the IT department before installing new software on company-owned laptops. Unauthorized software installation is prohibited.

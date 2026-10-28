@@ -1,0 +1,51 @@
+
+[
+  {
+    "question": "How many days of annual leave do employees receive?",
+    "expected_answer": "18 days",
+    "expected_source": "leave_policy",
+    "category": "answerable"
+  },
+  {
+    "question": "How many annual leave days can be carried forward?",
+    "expected_answer": "Up to 5 days",
+    "expected_source": "leave_policy",
+    "category": "answerable"
+  },
+  {
+    "question": "How long does a password reset normally take?",
+    "expected_answer": "30 minutes during business hours",
+    "expected_source": "it_support",
+    "category": "answerable"
+  },
+  {
+    "question": "What is the IT Helpdesk operating schedule?",
+    "expected_answer": "Monday to Friday, 9 AM to 6 PM, excluding company holidays",
+    "expected_source": "it_support",
+    "category": "answerable"
+  },
+  {
+    "question": "What is the daily meal reimbursement limit?",
+    "expected_answer": "800 per day",
+    "expected_source": "expense_policy",
+    "category": "answerable"
+  },
+  {
+    "question": "What is the deadline for submitting expense claims?",
+    "expected_answer": "Within 15 calendar days after the business trip",
+    "expected_source": "expense_policy",
+    "category": "answerable"
+  },
+  {
+    "question": "What is the company's maternity leave policy?",
+    "expected_answer": "Not specified in the supplied documents",
+    "expected_source": "",
+    "category": "unanswerable"
+  },
+  {
+    "question": "What is the company's annual bonus amount?",
+    "expected_answer": "Not specified in the supplied documents",
+    "expected_source": "",
+    "category": "unanswerable"
+  }
+]
